@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdei\\Documents\\Github_project\\Gallows_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D846425-2F1D-4BC5-89C2-51A9987D4EB4}|Gallows game\\Gallows game.fsproj|c:\\users\\erdei\\documents\\github_project\\gallows_game\\gallows game\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{2D846425-2F1D-4BC5-89C2-51A9987D4EB4}|Gallows game\\Gallows game.fsproj|solutionrelative:gallows game\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\erdei\\Documents\\Github_project\\Gallows_game\\Gallows game\\Program.fs",
+              "RelativeDocumentMoniker": "Gallows game\\Program.fs",
+              "ToolTip": "C:\\Users\\erdei\\Documents\\Github_project\\Gallows_game\\Gallows game\\Program.fs",
+              "RelativeToolTip": "Gallows game\\Program.fs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAYwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T16:41:03.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

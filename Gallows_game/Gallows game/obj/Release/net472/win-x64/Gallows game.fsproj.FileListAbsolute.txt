@@ -1,0 +1,24 @@
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\Gallows game.exe.config
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\Gallows game.exe
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\Gallows game.pdb
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\FSharp.Core.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\cs\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\de\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\es\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\fr\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\it\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\ja\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\ko\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\pl\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\pt-BR\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\ru\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\tr\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\zh-Hans\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\bin\Release\net472\win-x64\zh-Hant\FSharp.Core.resources.dll
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\obj\Release\net472\win-x64\Gallows game.fsproj.AssemblyReference.cache
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\obj\Release\net472\win-x64\Gallows game.AssemblyInfoInputs.cache
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\obj\Release\net472\win-x64\Gallows game.AssemblyInfo.fs
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\obj\Release\net472\win-x64\Gallows game.fsproj.CoreCompileInputs.cache
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\obj\Release\net472\win-x64\Gallows .A3DB0F36.Up2Date
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\obj\Release\net472\win-x64\Gallows game.exe
+C:\Users\erdei\Documents\Github_project\gallows_game\Gallows game\obj\Release\net472\win-x64\Gallows game.pdb

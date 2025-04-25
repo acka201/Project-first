@@ -1,0 +1,20 @@
+alma
+Egy édes, kerek gyümölcs, amelyet a fákon találunk.
+autó
+Négykerekű jármű, amelyet emberek közlekedésre használnak.
+ház
+Épület, amely emberek lakóhelyeként szolgál.
+kutya
+Háziállat, híres hűségéről és barátságos természetéről.
+macska
+Háziállat, amely a családok egyik kedvence, gyakran önálló.
+tavasz
+Az évszak, amely a téli hideg után következik, és a virágok nyílnak.
+nap
+A Föld körül keringő csillag, amely fényt és hőt ad.
+fák
+Növények, amelyek törzset és ágakat növesztenek, és fából készíthetünk tárgyakat.
+tenger
+Nagy vízfelület, amely a Föld több területét is borítja.
+hegy
+Magas földfelszín, amely a természet egyik nagyobb kiemelkedése.

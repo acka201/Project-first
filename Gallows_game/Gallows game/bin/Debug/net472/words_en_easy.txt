@@ -1,0 +1,20 @@
+apple
+A sweet, round fruit that is found on trees.
+car
+A four-wheeled vehicle used for transportation by people.
+house
+A building that serves as a dwelling for people.
+dog
+A domestic animal, famous for its loyalty and friendly nature.
+cat
+A domestic animal, often independent and a family favorite.
+spring
+The season that follows winter, characterized by blooming flowers.
+sun
+The star that the Earth orbits, providing light and warmth.
+tree
+A plant with a trunk and branches, from which we can make items from wood.
+sea
+A large body of water that covers much of the Earth's surface.
+mountain
+A large natural elevation of the Earth's surface, rising abruptly.

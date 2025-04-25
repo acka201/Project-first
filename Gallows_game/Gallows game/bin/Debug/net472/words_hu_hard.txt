@@ -1,0 +1,20 @@
+antropológia
+Az emberi társadalmak, kultúrák és a fejlődésük tudományos tanulmányozása.
+biokémia
+A kémia tudománya, amely az élő rendszerek molekuláit tanulmányozza.
+aszimptotikus
+Olyan fogalom, amely a matematikában egy függvény viselkedését írja le, ahogy egy változó egy adott értékhez tart.
+deszkripció
+A dolgok vagy jelenségek részletes leírása.
+szimmetria
+A geometriai tulajdonság, amelyben egy forma vagy struktúra azonos vagy tükörképe egy másiknak.
+kriminalisztika
+A tudomány, amely a bűnügyi nyomok és bizonyítékok elemzésével foglalkozik.
+fenomenológia
+A filozófiai irányzat, amely az emberi tapasztalatok leírásával foglalkozik.
+absztrakt
+Olyan fogalom vagy művészeti stílus, amely nem a valóság konkrét ábrázolását tartalmazza.
+szinkronizáció
+A kommunikációs vagy működési rendszerek közötti időbeli egyezőség.
+koherens
+Olyan, amely az összes elem közötti kapcsolatot világosan kifejezi.

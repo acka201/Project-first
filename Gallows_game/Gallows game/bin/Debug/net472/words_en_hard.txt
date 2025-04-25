@@ -1,0 +1,20 @@
+anthropology
+The scientific study of human societies, cultures, and their development.
+biochemistry
+The science of chemistry that deals with the molecules in living organisms.
+asymptotic
+A term used in mathematics to describe the behavior of a function as it approaches a certain value.
+description
+A detailed account of a thing or phenomenon.
+symmetry
+The property of a shape or structure that is the same when reflected or rotated.
+forensics
+The science of investigating criminal evidence.
+phenomenology
+A philosophical approach that focuses on describing human experiences.
+abstract
+A concept or artistic style that does not represent real-world objects directly.
+synchronization
+The process of aligning events in time in communication or system operation.
+coherent
+Something that clearly expresses a connection between all its elements.

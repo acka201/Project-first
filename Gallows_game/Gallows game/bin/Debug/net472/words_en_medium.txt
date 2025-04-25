@@ -1,0 +1,18 @@
+book
+A collection of written or printed pages, bound together.
+computer
+An electronic device that processes information.
+school
+A place where people learn.
+airplane
+A vehicle that flies in the sky, powered by engines.
+running
+An activity where a person moves quickly on foot.
+island
+A piece of land surrounded by water.
+theater
+A place where live performances are held.
+bridge
+A structure that allows for crossing over a river or other obstacle.
+museum
+A place where art, historical items, and other objects of interest are displayed.

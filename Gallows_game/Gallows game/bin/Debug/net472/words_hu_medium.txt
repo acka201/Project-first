@@ -1,0 +1,20 @@
+könyv
+Papírból készült lapok összegyűjtése, amelyeket egy kötés tart össze.
+számítógép
+Elektronikus eszköz, amely információkat dolgoz fel.
+iskola
+Hely, ahol tanulás folyik.
+repülőgép
+Levegőben közlekedő jármű, amelyet hajtóművek mozgatnak.
+futás
+Olyan tevékenység, amelyben gyorsan mozgunk két lábon.
+sziget
+Olyan földterület, amely vízben van körülvéve.
+színház
+Hely, ahol élő előadásokat tartanak.
+híd
+Építmény, amely lehetővé teszi a közlekedést egy folyón vagy más akadályon.
+múzeum
+Hely, ahol különböző művészeti és történelmi értékeket őriznek.
+tűz
+Forró, fénylő anyag, amely égés során keletkezik.
