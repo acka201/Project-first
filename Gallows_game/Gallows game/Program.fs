@@ -1,18 +1,19 @@
-﻿open System
+﻿//akasztófa játék
+open System
 open System.IO
 open System.Text.Json
 open System.Diagnostics
 open System.Collections.Generic
-open System.Threading // Fontos, hogy hozzáadjuk ezt a nevet, hogy a Sleep függvény működjön.
+open System.Threading
 
-// Típusok
+// típusok
 type Language = | Hungarian | English
 type Difficulty = | Easy | Medium | Hard
 type Stats = {
     GamesPlayed: int
     GamesWon: int
     FastestWinSeconds: float
-    AverageWinSeconds: float // Átlagos nyerési idő
+    AverageWinSeconds: float // nyerési idő
 }
 
 let defaultStats = { GamesPlayed = 0; GamesWon = 0; FastestWinSeconds = Double.MaxValue; AverageWinSeconds = 0.0 }
@@ -32,14 +33,14 @@ let loadWords lang difficulty =
         let diffPart = match difficulty with Easy -> "easy" | Medium -> "medium" | Hard -> "hard"
         sprintf "words_%s_%s.txt" langPart diffPart
     printfn "Trying to load: %s" file
-    if not (File.Exists(file)) then
+    if not (File.Exists(file)) then //hiba kezelés
         failwithf "❌ Szólista nem található: %s" file
     let lines = File.ReadAllLines(file) |> Array.filter (fun s -> s.Trim().Length > 0)
     let wordDefinitionPairs = 
         [for i in 0..(lines.Length - 1) .. 1 do
             if i + 1 < lines.Length then
-                yield lines.[i], lines.[i + 1]]  // A párok: szó és definíció
-    Array.ofList wordDefinitionPairs  // Itt alakítjuk át listává a tömböt
+                yield lines.[i], lines.[i + 1]]  //szó+def
+    Array.ofList wordDefinitionPairs 
 
 let pickWord (wordDefinitionPairs: (string * string) array) =
     let rnd = Random()
@@ -94,7 +95,7 @@ let chooseLanguage () =
     printfn "2. English"
     match Console.ReadLine() with
     | "1" -> Hungarian
-    | _ -> English
+    | _-> English
 
 let chooseDifficulty lang =
     printfn "%s" (T lang "difficulty")
@@ -115,8 +116,8 @@ let showStats stats lang =
 let showDefinitionAndWait definition =
     Console.Clear()
     printfn "%s" definition
-    // 3 másodperc várakozás
-    Thread.Sleep(3000)  // 3 másodperc várakozás
+    
+    Thread.Sleep(5000)  // várakozás ms
     Console.Clear()
 
 let playGame lang stats =
@@ -127,8 +128,7 @@ let playGame lang stats =
     let revealed = Array.create word.Length '_' |> Array.toList
     let stopwatch: Stopwatch = Stopwatch.StartNew()
 
-    // Megjelenítjük a szó definícióját és várunk 3 másodpercet
-    showDefinitionAndWait definition
+    showDefinitionAndWait definition //def. várakoz idő
 
     let rec loop guessed state errors =
         Console.Clear()
@@ -174,19 +174,20 @@ let rec menu lang stats =
     printfn "%s" (T lang "choose")
     printfn "1. %s\n2. %s\n3. %s\n4. %s" (T lang "new") (T lang "rules") (T lang "stats") (T lang "exit")
     match Console.ReadLine() with
-    | "1" -> let updated = playGame lang stats in saveStats updated; menu lang updated
+    | "1" -> let updated = playGame lang stats in saveStats updated; menu lang updated //új játék
     | "2" -> printfn "A játék célja kitalálni a szót betűnként vagy egészben. 8 hibalehetőséged van. (Nyomj egy entert a folyatáshoz) / The goal of the game is to guess the word as a letter or as a whole, you have 8 chances to make a mistake. (Press Enter to continue) "; Console.ReadLine() |> ignore; menu lang stats
-    | "3" -> showStats stats lang; menu lang stats
-    | "4" -> () // Kilépés
+    | "3" -> showStats stats lang; menu lang stats //statisztika
+    | "4" -> () // kilépés
     | _ -> menu lang stats
 
 [<EntryPoint>]
 let main _ =
     Console.OutputEncoding <- System.Text.Encoding.UTF8
     let lang = chooseLanguage()
-    // Üdvözlő üzenet megjelenítése 3 másodpercig
+    
     printfn "%s" (T lang "welcome")  
-    Thread.Sleep(3000) // 3 másodperces várakozás
+    Thread.Sleep(3000) // üdv. üzenet
     let stats = loadStats()
     menu lang stats
     0
+    //program vége

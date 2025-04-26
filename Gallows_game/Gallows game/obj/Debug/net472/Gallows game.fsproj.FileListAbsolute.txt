@@ -58,3 +58,4 @@ C:\Users\erdei\Documents\Github_project\Gallows_game\Gallows game\obj\Debug\net4
 C:\Users\erdei\Documents\Github_project\Gallows_game\Gallows game\obj\Debug\net472\Gallows .A3DB0F36.Up2Date
 C:\Users\erdei\Documents\Github_project\Gallows_game\Gallows game\obj\Debug\net472\Gallows game.exe
 C:\Users\erdei\Documents\Github_project\Gallows_game\Gallows game\obj\Debug\net472\Gallows game.pdb
+C:\Users\erdei\Documents\Github_project\Gallows_game\Gallows game\obj\Debug\net472\Gallows game.sourcelink.json
