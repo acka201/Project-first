@@ -35,10 +35,12 @@ The goal of this project is to create an interactive and fun game that enhances 
     ```
 
 2. Open the project in an F# supporting IDE (e.g., Visual Studio).
+   
+3. Ensure that all required data files (*.txt in the txt.zip) are available in the project directory.
 
-3. To start the game, run the `Akasztófa` project.
+4. To start the game, run the `Gallows Game` project.
 
-4. Upon starting, the game will present you with the following menu options:
+5. Upon starting, the game will present you with the following menu options:
     - **New Game**: Start a new game, where you can choose the difficulty and language.
     - **Rules**: View the game rules.
     - **Statistics**: View your game statistics.
@@ -47,7 +49,10 @@ The goal of this project is to create an interactive and fun game that enhances 
 ### Screenshot of the Game
 
 See pictures.  
-*(Example of the game screen)*
+https://github.com/acka201/Project-first/blob/main/1.jpg
+https://github.com/acka201/Project-first/blob/main/2.jpg
+https://github.com/acka201/Project-first/blob/main/3.jpg
+https://github.com/acka201/Project-first/blob/main/4.jpg
 
 ## Development Plan
 
